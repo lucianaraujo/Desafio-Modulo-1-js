@@ -1,4 +1,4 @@
-# Desafios de lógica Javascript
+# Desafios de lógica Javascript 🤔
 
 
 
@@ -30,6 +30,8 @@
   10
   ```
 
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/soma-elementos.js) 👈🏼
+
 
 
 ## Média Aritimética
@@ -59,6 +61,8 @@
   ```
   3
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/media-aritmetica.js) 👈🏼
 
 
 
@@ -109,6 +113,10 @@
 
   - O primeiro valor refere-se ao valor que deseja-se saber é pertercente ao intervalo;
   - O segundo e terceiro valor refere-se ao intervalo.
+  
+  #### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/num-intervalo.js) 👈🏼
+  
+  
 
 ## Mesa de Poker
 
@@ -158,6 +166,10 @@
   [ 1 ]
   ```
 
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/mesa-poker.js) 👈🏼
+
+
+
 ## Truco
 
 - O jogo de truco é muito popular pelo Brasil. Numa de suas versões, ele é jogado apenas com as cartas `Q J K A 2 3`. Elas tem essa ordem de "força" nesse jogo, sendo `3` a mais valiosa e `Q` a menos valiosa. Contudo, a cada partida é virada uma carta com a face pra cima na mesa. Esta carta serve para indicar que a próxima carta é a `manilha`, ou seja, a carta mais poderosa para essa partida. Fizemos uma tabela resumo para explicar essa mecânica:
@@ -199,6 +211,8 @@ Q
 J
 ```
 
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/truco.js) 👈🏼
+
 
 
 ## Caçula dos Adultos
@@ -228,6 +242,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
 ```
 18
 ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/cacula-adultos.js) 👈🏼
 
 
 
@@ -270,6 +286,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   ```
   14
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/contador-palavras.js) 👈🏼
 
 
 
@@ -320,6 +338,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   ```
   3
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/americano.js) 👈🏼
 
 
 
@@ -376,6 +396,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   ```
   475
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/promocao.js) 👈🏼
 
 
 
@@ -447,6 +469,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   Herman
   ```
 
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/zerinho-ou-um.js) 👈🏼
+
 
 
 ## Taxímetro
@@ -476,6 +500,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   ```
   1925
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/taximetro.js) 👈🏼
 
 
 
@@ -520,6 +546,8 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   ```
   lock
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/caps-lock.js) 👈🏼
 
 
 
@@ -568,3 +596,5 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   ```
   NAO
   ```
+
+#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/cofre-bugadao.js) 👈🏼
