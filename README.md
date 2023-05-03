@@ -1,4 +1,4 @@
-# Desafios de lógica Javascript 🤔
+# Desafios Modulo 1 - Cubos Academy 
 
 
 
