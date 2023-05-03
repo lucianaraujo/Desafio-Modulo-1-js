@@ -30,7 +30,7 @@
   10
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/soma-elementos.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/01-soma-elementos.js) 👈🏼
 
 
 
@@ -62,7 +62,7 @@
   3
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/media-aritmetica.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/02-media-aritmetica.js) 👈🏼
 
 
 
@@ -114,7 +114,7 @@
   - O primeiro valor refere-se ao valor que deseja-se saber é pertercente ao intervalo;
   - O segundo e terceiro valor refere-se ao intervalo.
   
-  #### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/num-intervalo.js) 👈🏼
+  #### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/03-numeros-dentro-de-um-intervalo.js) 👈🏼
   
   
 
@@ -166,7 +166,7 @@
   [ 1 ]
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/mesa-poker.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/04-mesa-de-poker.js) 👈🏼
 
 
 
@@ -211,7 +211,7 @@ Q
 J
 ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/truco.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/05-truco.js) 👈🏼
 
 
 
@@ -243,7 +243,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
 18
 ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/cacula-adultos.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/06-cacula-dos-adultos.js) 👈🏼
 
 
 
@@ -287,7 +287,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   14
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/contador-palavras.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/07-contador-de-palavras.js) 👈🏼
 
 
 
@@ -339,7 +339,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   3
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/americano.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/08-americano.js) 👈🏼
 
 
 
@@ -397,7 +397,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   475
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/promocao.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/09-promocao.js) 👈🏼
 
 
 
@@ -469,7 +469,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   Herman
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/zerinho-ou-um.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/10-zero-ou-um.js) 👈🏼
 
 
 
@@ -501,7 +501,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   1925
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/taximetro.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/11-taximetro.js) 👈🏼
 
 
 
@@ -547,7 +547,7 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   lock
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/caps-lock.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/12-caps-lock.js) 👈🏼
 
 
 
@@ -597,4 +597,4 @@ Imprima na tela a idade da pessoa mais jovem que pode participar. Se ninguém pu
   NAO
   ```
 
-#### Resolução [aqui](https://github.com/IsaacJBS/desafio-logica-js/blob/main/cofre-bugadao.js) 👈🏼
+#### Resolução [aqui](https://github.com/lucianaraujo/Desafio-Modulo-1-js/blob/main/14-cofre-bugadao.js) 👈🏼
