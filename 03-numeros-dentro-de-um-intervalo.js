@@ -7,6 +7,5 @@ function solucao(numero, limiteInferior, limiteSuperior) {
     } else {
         console.log("PERTENCE")
     }
-
 }
 solucao(21, 5, 20)

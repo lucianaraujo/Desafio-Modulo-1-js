@@ -10,3 +10,4 @@ function solucao(lista) {
     }
 }
 solucao(lista)
+

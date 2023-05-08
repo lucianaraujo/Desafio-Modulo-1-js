@@ -7,4 +7,4 @@ function solucao(carta) {
     console.log(cartaPraCima[manilha])
 }
 
-solucao("Q")
+solucao("J")

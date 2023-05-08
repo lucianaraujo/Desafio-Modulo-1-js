@@ -17,3 +17,5 @@ function solucao(min, km) {
     console.log(valorTotal)
 }
 solucao(25, 11.5)
+
+///passou

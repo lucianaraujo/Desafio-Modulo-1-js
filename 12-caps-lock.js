@@ -14,3 +14,5 @@ function solucao(palavra) {
     }
 }
 solucao(palavra)
+
+///passou

@@ -13,3 +13,5 @@ function solucao(precos) {
     }
 }
 solucao(precos)
+
+///passou

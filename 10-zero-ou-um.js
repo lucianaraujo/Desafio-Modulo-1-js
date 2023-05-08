@@ -18,3 +18,5 @@ function solucao(jogadores) {
     }
 }
 solucao(jogadores)
+
+///passou

@@ -15,3 +15,5 @@ function solucao(numero) {
     }
 }
 solucao(numeros)
+
+////passou
