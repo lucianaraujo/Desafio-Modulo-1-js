@@ -17,12 +17,8 @@ function solucao(input) {
         distancia = ((coordenadasX[i] - coordenadasY[j]) ** 2)
     }
 
-
     console.log(coordenadasX)
     console.log(coordenadasY)
-
-
-
 }
 
 solucao(input)

@@ -18,4 +18,3 @@ function solucao(min, km) {
 }
 solucao(25, 11.5)
 
-///passou
